@@ -1,6 +1,6 @@
 import axios from "axios";
 
-// Rodar com IPV4: json-server --watch -d --host 192.168.1.42
+// Rodar com IPV4: json-server --watch -d --host ip
 
 
 const api = axios.create({
